@@ -40,7 +40,7 @@
     "autoscaling": [],
     "tags": {}
   },
-  "${target_table}": {
+  "Audit": {
     "resource_type": "dynamodb_table",
     "hash_key_name": "id",
     "hash_key_type": "S",
@@ -48,6 +48,14 @@
     "write_capacity": 1,
     "global_indexes": [],
     "autoscaling": [],
+    "expected_item": {
+      "id": "UUID v4",
+      "itemKey": "CACHE_TTL_SEC",
+      "modificationTime": "2024-01-01T00:00:00.000Z",
+      "updatedAttribute": "value",
+      "oldValue": 3600,
+      "newValue": 1800
+    },
     "tags": {}
   },
   "audit_producer-role": {
