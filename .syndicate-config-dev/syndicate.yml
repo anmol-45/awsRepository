@@ -1,0 +1,16 @@
+account_id: '376129861747'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-6620/32da7de8/task07
+expiration: 2025-03-13 11:07:52.856857+00:00
+extended_prefix_mode: true
+project_path: C:\Users\anmol_kumar\Desktop\awsProject\awsRepository
+region: eu-west-1
+resources_prefix: cmtr-32da7de8-
+tags:
+  run_id: JAP-08
+  run_type: stm
+  type: user
+  user_id: 32da7de8
+temp_aws_access_key_id: ASIAVPEYWHBZV6X45NQD
+temp_aws_secret_access_key: xnQT5Ab/lz8+XV6hwRn/dH2Jr/GOt5VoajOf7zwB
+temp_aws_session_token: IQoJb3JpZ2luX2VjEIv//////////wEaCXVzLWVhc3QtMSJHMEUCIQCY0FELf0EhUXUdcSNPUZGuI80FlW2povW2PprRguq6cAIgOqon+2dQegu6JgaOFlFeJ9BrbIf9bPw2ZXqFANos8FAq3QII0///////////ARAAGgwzNzYxMjk4NjE3NDciDFt7n9X3+DgdjFpKViqxAs4JKHP/CqekNv+Qyz9Al2YcwCwaUO0ggELIiVol9Pmvk2LNMsKDf04cRNpDcNplbySiuulH137NHgZilyNSraiHG2ydVqoRGYRbsI3zSI7ONJnRaVVGfzwnlyeIXOwl61BQkmB1pcuAK2OX+uDiLosmzvhFb+pf8vRzNXlX+R9gxPqEyQg8g3wZSsCh5AcLu9Lp3TEJTMngqx3uy7Zr6uBYlcd/CtJRJzpLFyddRyA5f3tXMKE3P1zRSf890TszS5XRt+VTlraNOUUkTjZV2PWNLJlgcyqsRgv7fAwJq6hqP4uhycOHDpaPxjo36Y1P78M6G0Uhrjpxc/ZWfeESpahYt+mkcpWg5nuTnF880N1AfhkrfBZ/nLDgWxQf6GEPNRJOIg0CsNZD1d5Mq76sXtMzMLzhyr4GOp0Bggb0re0ppAT0a/9htQJFPi+jV2NP8S60s0mWv75WustQy45LzZuWuB+0593HMr/t3q4yj56n8z0HP0krcGUkZGJGpJpEblYPBhixt6o9d65xEhVvrynjv0qobHO6R9hQzcntJlPrD5X0F65K1XoW6Om6AizEAS/L1dhkgUbbOVSbVdFc3lok27N13/RFOaWLFeVziJ9wpO8u6lf13g==
+use_temp_creds: false
